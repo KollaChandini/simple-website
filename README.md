@@ -1,5 +1,5 @@
 
-## Project1: To run a simple website
+## Project: To run a simple website
 This project is about how to run a website on a Linux vm with Ubuntu, Vagrant and Apache HTTP Server.
 
 ## Prerequisites
